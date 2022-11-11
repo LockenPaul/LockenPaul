@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, World 👋
 
+
+- 😄 My name is Paul
+- 🔭 I’m currently learning NodeJS
+- ⚡ I'm 17y/o
+- [🌱 Main account](https://github.com/TheConsoleLog)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LockenPaul&count_private=true&theme=synthwave&show_icons=true)
 <!--
-**LockenPaul/LockenPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+themes: toykionight, dark, cobalt, synthwave
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockenPaul&langs_count=8&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github.com/TheConsoleLog
